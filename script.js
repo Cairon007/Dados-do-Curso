@@ -1,5 +1,5 @@
 const notas = document.getElementById("notas");
-const botaoLimpar = document.getElementById("limpar");
+const botaoLimpar = document.getElementById("Limpar");
 
 notas.value = localStorage.getItem("blocoNotas");
 
